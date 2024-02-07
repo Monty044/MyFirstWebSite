@@ -4,5 +4,7 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 [user]
-	name = Monty04
+	name = Montadar
 	email = montadarabidali6@gmail.com
+[core]
+	editor = \"C:\\Users\\EAibr\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
